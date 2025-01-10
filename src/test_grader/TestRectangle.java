@@ -1,4 +1,4 @@
-package test.grader;
+package test_grader;
 
 
 import static org.junit.jupiter.api.Assertions.*;
