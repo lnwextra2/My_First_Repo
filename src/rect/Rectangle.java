@@ -40,4 +40,7 @@ public class Rectangle {
 		Rectangle other = (Rectangle) obj;
 		return height == other.height && width == other.width;
 	}
+	public int doubleArea() {
+		return this.getArea()*2;
+	}
 }
